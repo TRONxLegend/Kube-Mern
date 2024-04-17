@@ -15,6 +15,7 @@ kubectl apply -f mongo-app.yaml
 kubectl apply -f web-app.yaml
 ----------------------------------
 kubectl get pod
+----------------------------------
 kubectl get configmap
 kubectl get secret
 kubectl get svc
