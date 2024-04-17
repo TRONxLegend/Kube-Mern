@@ -23,6 +23,7 @@ kubectl get secret
 kubectl get svc
 ---------------------------------
 minikube ip
+----------------------------------
 kubectl get node -o wide
 
 
